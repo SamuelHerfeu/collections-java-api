@@ -1,4 +1,4 @@
-package Main.List.Java.Ordenacao;
+package Main.Java.List.Ordenacao;
 
 import java.util.ArrayList;
 import java.util.Collections;

@@ -1,4 +1,4 @@
-package Main.List.Java.Pesquisa;
+package Main.Java.List.Pesquisa;
 
 public class Livro {
 
