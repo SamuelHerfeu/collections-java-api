@@ -29,7 +29,7 @@ public class Livro {
 
     @Override
     public String toString() {
-        return "Livro{" +
+        return "Main.Java.Map.Ordenacao.Livro.Livro{" +
                 "titulo='" + titulo + '\'' +
                 ", autor='" + autor + '\'' +
                 ", anoPublicacao=" + anoPublicacao +
